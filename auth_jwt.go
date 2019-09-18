@@ -3,8 +3,8 @@ package jwt
 import (
     "crypto/rsa"
     "errors"
-    "github.com/gogf/gf/g"
-    "github.com/gogf/gf/g/net/ghttp"
+    "github.com/gogf/gf/frame/g"
+    "github.com/gogf/gf/net/ghttp"
     "io/ioutil"
     "net/http"
     "strings"
